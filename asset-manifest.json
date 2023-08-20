@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Holidayz/static/css/main.529e0de6.css",
+    "main.js": "/Holidayz/static/js/main.84dc2eed.js",
+    "static/media/video1.mp4": "/Holidayz/static/media/video1.42661e42add5cb9defc5.mp4",
+    "static/media/video2.mp4": "/Holidayz/static/media/video2.bb9ced1bb519783b651f.mp4",
+    "static/media/bali.jpg": "/Holidayz/static/media/bali.bc8f457f5e4b55c7bc88.jpg",
+    "static/media/maldives.jpg": "/Holidayz/static/media/maldives.6491001fa41a61af63fe.jpg",
+    "static/media/bangkok.jpg": "/Holidayz/static/media/bangkok.358a3dd15802a8225af2.jpg",
+    "static/media/peru.jpg": "/Holidayz/static/media/peru.4a4a7ea9ef0e6673ad70.jpg",
+    "static/media/img.jpg": "/Holidayz/static/media/img.b9ee31995c39b53530ec.jpg",
+    "static/media/eiffiltower.jpg": "/Holidayz/static/media/eiffiltower.855426399d3b7a54dc9c.jpg",
+    "static/media/londonEye.jpg": "/Holidayz/static/media/londonEye.8c05a6b94af5bf452bfa.jpg",
+    "static/media/borabora.jpg": "/Holidayz/static/media/borabora.f026b2efcbf3d6816cd5.jpg",
+    "index.html": "/Holidayz/index.html",
+    "main.529e0de6.css.map": "/Holidayz/static/css/main.529e0de6.css.map",
+    "main.84dc2eed.js.map": "/Holidayz/static/js/main.84dc2eed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.529e0de6.css",
+    "static/js/main.84dc2eed.js"
+  ]
+}
