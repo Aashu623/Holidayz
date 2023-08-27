@@ -1,5 +1,5 @@
 # Holidayz - Responsive Travel Agency Homepage
-# Live  : https://aashu623.github.io/Holidayz/
+## Live  : https://aashu623.github.io/Holidayz/
 
 Welcome to Holidayz, a stunning and dynamic responsive frontend built using React.js for a modern and engaging travel agency website. This project showcases an elegant user interface that adapts seamlessly across various devices and screen sizes, ensuring an exceptional browsing experience for users.
 
