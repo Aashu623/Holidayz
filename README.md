@@ -24,4 +24,5 @@ To explore and contribute to TravelBreeze, follow these steps:
 
 Your feedback and contributions are highly appreciated!
 
-- Aashish Kushwah
+Thank You!
+Aashish Kushwah
