@@ -6,10 +6,17 @@ import Footer from './Components/Footer/Footer'
 function App() {
   return (
     <>
+<<<<<<< HEAD
       <Navbar />
       <Home />
       <Main />
       <Footer />
+=======
+      <Navbar/>
+      <Home/>
+      <Main/>
+      <Footer/>
+>>>>>>> 9270e5314decd4e286fc515aa00a12dca7490cb9
     </>
   );
 }
